@@ -1,3 +1,6 @@
+/**
+ * @author Manuel Mastrofini
+ */
 package com.lh.mappings;
 
 import java.util.Date;

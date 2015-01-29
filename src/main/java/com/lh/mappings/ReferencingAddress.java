@@ -1,3 +1,6 @@
+/**
+ * @author Manuel Mastrofini
+ */
 package com.lh.mappings;
 
 import javax.persistence.Column;
